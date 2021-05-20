@@ -195,9 +195,9 @@ a:hover {
         width: 50%;
     }
 
-    img {
+    .container img {
         width: 80%;
-        height: 150px;
+        height: auto;
         display: block;
         margin: 0 auto 20px auto;
         
