@@ -33,7 +33,6 @@ p {
 }
 
 .navbar {
-    background-color: #;
     max-width: 1000px;
     margin: -10px auto;
 }
@@ -148,7 +147,7 @@ a:hover {
     margin-bottom: -10px;
     position: relative;
     bottom: 0;
-    border-radius: 0 20px;
+    border-radius: 0 2px;
 }
 
 
@@ -219,9 +218,9 @@ a:hover {
     }
 
     .footer {
-     width: 90%;
-     height: 100px;
-     border-radius: 0 10px;
+        height: 100px;
+        border-radius: 0 10px;
+        width: 100%;
     }
 
 }
