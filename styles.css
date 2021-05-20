@@ -199,8 +199,8 @@ a:hover {
         width: 80%;
         height: auto;
         display: block;
-        margin: 10px auto;
-        margin-buttom: 30px;
+        margin: 0 auto 20px auto;
+        
     }
 
     .container  {
