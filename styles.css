@@ -195,12 +195,11 @@ a:hover {
         width: 50%;
     }
 
-      img {
+    .grid img {
         width: 80%;
-        height: auto;
         display: block;
-        margin: 0 auto 20px auto;
-        
+        margin: 5px auto;
+        margin-bottom: 20px;
     }
 
     .container  {
