@@ -154,7 +154,7 @@ a:hover {
 
 
 /* Media Queries */
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 300px) {
     .navbar .flex {
         max-width: 100%;
         display: flex;
