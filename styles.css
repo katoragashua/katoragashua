@@ -146,10 +146,10 @@ a:hover {
 .footer {
     background-color: #f0cda3;
     color: #064420;
-    margin-bottom: -10px;
+    margin-bottom: 10px;
     position: relative;
     bottom: 0;
-    border-radius: 0 2px;
+    border-radius: 0 20px;
 }
 
 
