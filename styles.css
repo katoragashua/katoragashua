@@ -79,6 +79,7 @@ p {
     width: 25rem;
     margin-top: 20px;
 }
+
 img.float {
     border-radius: 10px;
 }
@@ -125,6 +126,7 @@ a:hover {
     max-width: 1000px;
     margin: 0 auto;
 }
+
 .flex {
     display: flex;
     justify-content: space-evenly;
@@ -133,7 +135,7 @@ a:hover {
 .grid {
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 30px;
+    gap: 100px;
     margin-top: 40px;
     position: relative;
     background-color: #faf1e6;
@@ -158,6 +160,7 @@ a:hover {
         max-width: 100%;
         display: flex;
         flex-direction: column;
+        margin: 10px 0;
     }
 
     h1 {
@@ -169,24 +172,24 @@ a:hover {
         margin-top: 0;
         margin-bottom: 0;
     }
+
     .container .flex600 {
         display: flex;
         flex-direction: column;
-        justify-content: space-between;
+        justify-content: space-evenly;
         margin: 20px 0;
+
         
     }
     .flex600 {
-        height: auto;
-        background: none;
+        height: auto;  
+        gap: 30px;
+        margin-right: auto;
+        margin-left: auto;
     }
+
+
     
-    div .card {
-        width: 100%;
-        margin-left: -150px;
-        margin-top: -90px;
-        background-color: #fad5863f;
-    }
     .float {
         margin-top: 100px;
         display: block;
@@ -195,14 +198,18 @@ a:hover {
         width: 50%;
     }
 
+    .flex600 .card {
+       margin-left: -150px;
+       width: 100%;
+    }
+
     .grid img {
         width: 80%;
         display: block;
-        margin: 5px auto;
-        margin-bottom: 20px;
+        margin: 5px auto;  
     }
 
-    .container  {
+    .container {
         width: 90%; 
     }
 
@@ -212,15 +219,21 @@ a:hover {
 
     .contactme a {
     font-size: 1rem;
-    margin: 20px 10px;
+    margin: 10px 5px;
     text-decoration: none;
     color: #064420;
     }
+    .contactme {
+    display: grid;
+    margin: 0 0px;
+    justify-content: space-evenly;
+}
 
     .footer {
         height: 100px;
         border-radius: 0 10px;
-        width: 100%;
+        width: auto;
+        height: auto;
     }
 
 }
