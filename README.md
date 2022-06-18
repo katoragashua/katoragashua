@@ -1,4 +1,5 @@
 ### Hi there 👋
+# My name is Kator Jason Agashua. I am a Frontend Developer and Web Designer.  
 
 <!--
 **katoragashua/katoragashua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
