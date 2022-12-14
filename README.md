@@ -1,11 +1,10 @@
 ### Hi there 👋
 # My name is Kator Jason Agashua. I am a Frontend Developer. 
 ## My current Stack is: HTML, CSS, Tailwind, JavaScript, React, React Router. 
-## I have also worked with TypeScript and Redux.
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node JS and Python for Backend development
+## I have also worked with TypeScript and Redux, Node JS and Python.
+- 🔭 I’m currently working on personal and company projects. 
+- 🌱 I’m currently learning Node JS and Python for Backend development.
 - 👯 I’m looking to collaborate on Open Source projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything.
 - 📫 How to reach me: Phone - +234-8093792855, Email - katoragashua@outlook.com
 - ⚡ Fun fact: I love Football and Travel
