@@ -1,6 +1,6 @@
 ### Hi there 👋
-# My name is Kator Jason Agashua. I am a Frontend Developer. 
-## My current Stack is: HTML, CSS, Tailwind, JavaScript, React, React Router. 
+# My name is Kator Jason Agashua. I am a Full-Stack Developer (MERN). 
+## My current Stack is: HTML, CSS, Tailwind, JavaScript, React, React Router, Node.JS and Expresss. 
 ## I have also worked with TypeScript and Redux, Node JS and Python.
 - 🔭 I’m currently working on personal and company projects. 
 - 🌱 I’m currently learning Node JS and Python for Backend development.
