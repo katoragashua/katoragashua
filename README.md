@@ -1,6 +1,6 @@
 ## Hi there 👋
-# Kator Jason Agashua here. Full-Stack JavaScript Developer. 
-## STACK: JavaScript, React, React Router, Node.js, Express, Solidity. 
+#  I am Kator Jason Agashua. Full-Stack JavaScript Developer. 
+## STACK: JavaScript, React, React Router, Node.js, Express, and Solidity. 
 ## I have also worked with TypeScript, Redux, and Python.
 ### CURRENTLY
 - 🔭 Working on personal and company projects. 
