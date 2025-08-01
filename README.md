@@ -6,7 +6,8 @@
 - 🔭 Working on personal and company projects. 
 - 🌱 Learning Solidity.
 - 👯 Looking to collaborate on open-source projects.
-#___________________________
+
+  #🧑🏿‍💻
 - 💬 Ask me about anything.
 - 📫 How to reach me: Phone - +234-8093792855, +234-8108176370, Email - katoragashua@outlook.com
 - ⚡ Fun fact: I love Football, Travel, and Food
