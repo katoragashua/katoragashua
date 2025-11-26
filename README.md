@@ -4,7 +4,7 @@
 ## I have also worked with TypeScript, Redux, and Python.
 ### CURRENTLY
 - 🔭 Working on personal and company projects. 
-- 🌱 Learning Solidity.
+- 🌱 Learning Solidity and Elixir.
 - 👯 Looking to collaborate on open-source projects.
 
 # 🧑🏿‍💻
